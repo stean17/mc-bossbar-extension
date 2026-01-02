@@ -1,0 +1,9 @@
+{
+  "name": "bossbar",
+  "version": "0.0.2",
+  "description": "Simple Boss Bar extension for Minecraft Education",
+  "dependencies": {
+    "core": "*",
+    "minecraft": "*"
+  }
+}
